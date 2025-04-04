@@ -2,6 +2,8 @@
 
 A **frontend clone** of the Razorpay website built using **Tailwind CSS**. This project helped me improve my understanding of utility-first styling, responsive design and modern UI development.
 
+✨[Live Preview!](https://mitsubhatt.github.io/razorpay-clone/)
+
 ## Tech Stack
 - **HTML** - Structuring the content
 - **Tailwind CSS** - Styling with a utility-first approach
